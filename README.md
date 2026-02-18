@@ -7,3 +7,4 @@ test gpgsign
 
 test gpgsign
 
+test gpgsign add email
