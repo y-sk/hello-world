@@ -10,3 +10,5 @@ test gpgsign
 test gpgsign add email
 
 test gpgsign subkey only
+
+test gpgsign pinentry-mac
