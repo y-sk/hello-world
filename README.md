@@ -8,3 +8,5 @@ test gpgsign
 test gpgsign
 
 test gpgsign add email
+
+test gpgsign subkey only
